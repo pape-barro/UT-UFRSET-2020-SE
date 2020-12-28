@@ -1,5 +1,9 @@
-# UT-UFRSET-SE-2020 (Université de Thiès - UFR Sciences et Technologies - Systèmes embarqués - 2020)
-# ``` Introduction aux microcontrôleurs et aux éléments de machine ```
+# UT-UFRSET-SE-2020 :
+ * ##  Université de Thiès 
+ * ##  UFR Sciences et Technologies 
+ * ##  Université de Thiès 
+ * ##  Systèmes embarqués 2019 - 2020 
+  * ###  Introduction aux microcontrôleurs et aux éléments de machine 
 
 ``` - Organisation du travail(40h): ```
  * Cours magistral : 24h ;
