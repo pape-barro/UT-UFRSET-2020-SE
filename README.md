@@ -17,7 +17,7 @@
  * Aucun (Quelques notions de programmation sera un plus).
  
  # ``` Contenu: ```
- 1. Introduction aux systèmes embarqués - ``` 07 Décembre 2020 ``` ;
+ 1. [Introduction aux systèmes embarqués](#https://github.com/pape-barro/UT-UFRSET-2020-SE/blob/main/Introduction_aux_systemes_embarques.pdf) - ``` 07 Décembre 2020 ``` ;
  2. Architecture et familles de microcontrôleur - ``` 14 Décembre 2020 ``` ;
  3. Capteurs, actuateurs et programmation des microcontrôleurs - ``` 21 - 28 Décembre 2020 ``` ;
  4. Quelques éléments de machine - ``` 04 Décembre 2020 ``` .
