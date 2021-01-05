@@ -18,7 +18,7 @@
  * Raspberry PI (éventuellement) ;
  
 ``` - Prérequis: ```
- * Aucun (Quelques notions de programmation sera un plus).
+ * Aucun (Quelques notions en programmation sera un plus).
  
  # ``` Contenu: ```
  1. [`Introduction aux systèmes embarqués`](https://github.com/pape-barro/UT-UFRSET-2020-SE/blob/main/Introduction_aux_systemes_embarques.pdf) - ``` 07 Décembre 2020 ``` ;
